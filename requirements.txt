@@ -1,4 +1,6 @@
-asgiref==3.5.2
-Django~=4.1.0
-Pillow==9.2.0
-sqlparse==0.4.2
+asgiref==3.8.1
+Django==4.1.13
+pillow==11.1.0
+setuptools==75.8.0
+sqlparse==0.5.3
+wheel==0.45.1
